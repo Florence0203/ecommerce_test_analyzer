@@ -1,0 +1,26 @@
+[
+  {
+    "name": "login_success",
+    "status": "passed",
+    "response_time": 0.8,
+    "error_code": 200
+  },
+  {
+    "name": "checkout_coupon",
+    "status": "passed",
+    "response_time": 2.8,
+    "error_code": 200
+  },
+  {
+    "name": "payment_api",
+    "status": "failed",
+    "response_time": 4.2,
+    "error_code": 400
+  },
+  {
+    "name": "create_order",
+    "status": "failed",
+    "response_time": 1.5,
+    "error_code": 503
+  }
+]
